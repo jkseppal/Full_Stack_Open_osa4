@@ -1,10 +1,10 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRvaW5lblRlc3RhYWphIiwiaWQiOiI1ZjJiOTRmZDk4NDFiNjJiMzg2MjZmZWQiLCJpYXQiOjE1OTY2OTI4NDh9.Gcvw3BO6JYFIkvC4NdygEQfnyy5UTRmbP4WCYRuormo
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtvbG1hcyIsImlkIjoiNWYyYmM5NjQwMTY4YWMxNzYwYmY5MzU5IiwiaWF0IjoxNTk2NzA1MTU2fQ.4wBIN1R4pxbGIHmyi5YhukxcZMIFHcPUPYbafQzufIY
 
 {
-    "url": "http://joku.com",
-    "title": "Suomalaisen aikuisviihteen kehitys",
-    "author": "Osku",
-    "likes": 666
+    "url": "http://jokumuuuu.com",
+    "title": "Viiniarvostelut",
+    "author": "Robert Parker",
+    "likes": 15
 }
